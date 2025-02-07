@@ -1,0 +1,21 @@
+<svg
+    version="1.1"
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 200 60"
+    fill="none"
+>
+    <defs>
+        <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+            <stop offset="0%" stop-color="#6a11cb" />
+            <stop offset="100%" stop-color="#2575fc" />
+        </linearGradient>
+    </defs>
+    
+    <circle cx="30" cy="30" r="12" stroke="url(#gradient)" stroke-width="3" fill="none" />
+    <path d="M18 30 L30 10 L42 30" stroke="url(#gradient)" stroke-width="3" fill="none" />
+    <path d="M22 40 L30 50 L38 40" stroke="url(#gradient)" stroke-width="3" fill="none" />
+    
+    <text x="60" y="38" font-family="Arial, sans-serif" font-size="24" fill="url(#gradient)" font-weight="bold">
+        Ethereal
+    </text>
+</svg>
