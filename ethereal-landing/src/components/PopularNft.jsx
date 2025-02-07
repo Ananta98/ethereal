@@ -4,7 +4,7 @@ import { nft1, nft2, nft3, nft4 } from '../assets'
 
 const PopularNft = () => {
     return (
-        <div className="pb-[3rem] pt-[5rem] ">
+        <div id="popular-nfts" className="pb-[3rem] pt-[5rem] ">
             <div className="text-center">
                 <p className="font-poppins font-semibold text-[30px] md:text-[40px] text-white opacity-90">
                     Popular Item

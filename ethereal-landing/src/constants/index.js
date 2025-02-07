@@ -22,6 +22,10 @@ export const navLinks = [
     title: "Become Creator",
   },
   {
+    id: "popular-nfts",
+    title: "Popular Nfts",
+  },
+  {
     id: "get-started",
     title: "Get Started",
   },

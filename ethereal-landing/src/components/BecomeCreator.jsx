@@ -9,7 +9,10 @@ import {
 
 const BecomeCreator = () => {
     return (
-        <div className="pb-[3rem] pt-[5rem] bg-[#1e1e1e] rounded-2xl">
+        <div
+            id="become-creator"
+            className="pb-[3rem] pt-[5rem] bg-[#1e1e1e] rounded-2xl"
+        >
             <div className="text-center">
                 <p className="font-poppins font-semibold text-[30px] md:text-[40px] text-white opacity-90">
                     Become a Creator

@@ -5,6 +5,7 @@ import Button from './Button'
 const CTA = () => {
     return (
         <section
+            id="get-started"
             className={`${styles.flexCenter} ${styles.marginY} ${styles.padding} sm:flex-row
             flex-col bg-black-gradient-2 rounded-[20px] box-shadow`}
         >
